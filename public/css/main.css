@@ -1,0 +1,11 @@
+.avatar{
+    width: 100%;
+    float: left;
+}
+.avatar-mini{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 7px;
+}
